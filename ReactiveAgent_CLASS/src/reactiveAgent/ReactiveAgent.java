@@ -68,7 +68,6 @@ public class ReactiveAgent implements Agent {
 
     private Action decide_a(Perception perception)
     {
-
         // TODO
         // Implement the decision process of a basic version of the reactive agent,
         // which should simply wander around the world avoiding hitting the walls.
@@ -201,7 +200,8 @@ public class ReactiveAgent implements Agent {
 
         if(perception.getE() != null && perception.getE().isDirty())
         {
-            if (perception.getE().getLastIteration() <= lastIteration) {
+            if (perception.getE().getLastIteration() <= lastIteration)
+            {
                 lastIteration = perception.getE().getLastIteration();
                 action = Action.EAST;
             }

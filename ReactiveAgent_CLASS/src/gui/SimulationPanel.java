@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class SimulationPanel extends JPanel implements EnvironmentListener {
 
-    private static final int SLEEP_MILLIS = 100; // todo modify to speed up the simulation
+    private static final int SLEEP_MILLIS = 1000; // todo modify to speed up the simulation
     private static final int NUM_ITERATIONS = 1000; // todo modify to change the number of iterations
 
     private static final int CELL_SIZE = 20;
