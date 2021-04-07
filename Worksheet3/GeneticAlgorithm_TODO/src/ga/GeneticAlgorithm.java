@@ -7,8 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class GeneticAlgorithm<I extends Individual, P extends Problem<I>> {
-
+public class GeneticAlgorithm<I extends Individual, P extends Problem<I>>
+{
     public static Random random;
     private final int populationSize;
     private final int maxGenerations;
@@ -36,9 +36,29 @@ public class GeneticAlgorithm<I extends Individual, P extends Problem<I>> {
         this.mutation = mutation;
     }
 
-    public I run(P problem) {
-        //TODO
-        return null;
+    public I run(P problem)
+    {
+        t = 0;
+
+        population = new Population<>(populationSize, problem);
+        bestInRun = population.evaluate();
+        fireGenerationEnded(new GAEvent(this));
+
+        while(t < maxGenerations && !stopped)
+        {
+            Population populationAux = selection.run(population);
+            recombination.run(populationAux);
+            mutation.run(populationAux);
+            population = populationAux;
+            I bestInGen = population.evaluate();
+            computeBestInRun(bestInGen);
+            t++;
+            fireGenerationEnded(new GAEvent(this));
+        }
+
+        fireRunEnded(new GAEvent(this));
+
+        return bestInRun;
     }
 
     private void computeBestInRun (I bestInGen){

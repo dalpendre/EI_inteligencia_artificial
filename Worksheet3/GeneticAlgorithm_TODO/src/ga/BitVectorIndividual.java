@@ -7,9 +7,6 @@ public abstract class BitVectorIndividual <P extends Problem, I extends BitVecto
     public BitVectorIndividual(P problem, int size, double prob1s) {
         super(problem);
         genome = new boolean[size];
-        for (int i = 0; i < genome.length; i++) {
-            genome[i] = GeneticAlgorithm.random.nextDouble() < prob1s;
-        }
     }
 
     public BitVectorIndividual(BitVectorIndividual<P, I> original) {
