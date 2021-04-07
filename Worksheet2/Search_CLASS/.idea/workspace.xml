@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a091b84-42a2-4966-937e-8409e68ac26b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/Heuristic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/Heuristic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/agent/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/agent/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/ActionUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleProblem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/EightPuzzleState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/HeuristicTileDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/HeuristicTileDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/HeuristicTilesOutOfPlace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/eightpuzzle/HeuristicTilesOutOfPlace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonInitialState_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonInitialState_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonReset_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonReset_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonShowSolution_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonShowSolution_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonSolve_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonSolve_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonStop_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ButtonStop_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ComboBoxHeuristics_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ComboBoxHeuristics_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/ComboBoxSearchMethods_ActionAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/ComboBoxSearchMethods_ActionAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/MainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/Properties.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/Properties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/PuzzleTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/PuzzleTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/PuzzleTileCellRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/PuzzleTileCellRenderer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/gui/TextFieldSearchParameter_KeyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/gui/TextFieldSearchParameter_KeyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/AStarSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/AStarSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/BeamSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/BeamSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/BreadthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/BreadthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/DepthFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/DepthLimitedSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/DepthLimitedSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/GraphSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/GraphSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/GreedyBestFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/GreedyBestFirstSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/IDAStarSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/IDAStarSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/InformedSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/InformedSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/IterativeDeepeningSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/IterativeDeepeningSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/SearchMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/SearchMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/searchmethods/UniformCostSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/searchmethods/UniformCostSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/utils/ImageLoader$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/utils/ImageLoader$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/utils/ImageLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/utils/ImageLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/utils/NodeCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/utils/NodeCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/utils/NodeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/utils/NodeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/utils/NodePriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/utils/NodePriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/agent/Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/agent/Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eightpuzzle/EightPuzzleProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightpuzzle/EightPuzzleProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/AStarSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/AStarSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/BreadthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/DepthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/DepthFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/DepthLimitedSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/DepthLimitedSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/GraphSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/GraphSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/GreedyBestFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/GreedyBestFirstSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/IterativeDeepeningSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/IterativeDeepeningSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/searchmethods/UniformCostSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchmethods/UniformCostSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Worksheet2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Worksheet2.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ObqOLKkVgswHXnjbCcqq6GZ9SZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Worksheet3/GeneticAlgorithm_TODO" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anabela\IdeaProjects\Search\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Main" />
+      <module name="untitled104" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a091b84-42a2-4966-937e-8409e68ac26b" name="Default" comment="" />
+      <created>1521195166059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521195166059</updated>
+      <workItem from="1582565107338" duration="11255000" />
+      <workItem from="1583168216627" duration="1607000" />
+      <workItem from="1583183963137" duration="5717000" />
+      <workItem from="1583255433033" duration="1164000" />
+      <workItem from="1614862104320" duration="67000" />
+      <workItem from="1614862729523" duration="2295000" />
+      <workItem from="1615363793327" duration="7194000" />
+      <workItem from="1615923445039" duration="9120000" />
+      <workItem from="1616573686121" duration="5778000" />
+      <workItem from="1617208230663" duration="684000" />
+      <workItem from="1617779000288" duration="560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

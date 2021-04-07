@@ -1,5 +1,7 @@
 package searchmethods;
 
+import agent.Problem;
+import agent.Solution;
 import agent.State;
 import java.util.List;
 
@@ -15,11 +17,30 @@ public class DepthLimitedSearch extends DepthFirstSearch {
         this.limit = limit;
     }
 
-    @Override
-    public void addSuccessorsToFrontier(List<State> successors, Node parent) {
+    protected Solution graphSearch(Problem problem)
+    {
+        frontier.clear();
 
-        //TODO
+        frontier.add(new Node(problem.getInitialState()));
 
+        while(!frontier.isEmpty() && !stopped)
+        {
+            Node n = frontier.poll();
+            if(problem.isGoal(n.getState()))
+            {
+                return new Solution(problem, n);
+            }
+
+            int total = 0;
+            if(n.getDepth() < limit)
+            {
+                List<State> sucessors = problem.executeActions(n.getState());
+                addSuccessorsToFrontier(sucessors, n);
+                computeStatistics(sucessors.size());
+            }
+            computeStatistics(total);
+        }
+        return null;
     }
 
     public int getLimit() {
