@@ -28,9 +28,17 @@ public class Tournament <I extends Individual, P extends Problem<I>> extends Sel
         return result;
     }
 
-    private I tournament(Population<I, P> population) {
-        //TODO
-        return null;
+    private I tournament(Population<I, P> population)
+    {
+        I best = population.getIndividual(GeneticAlgorithm.random.nextInt(popSize));
+
+        for (int i = 1; i < size; i++) {
+            I aux = population.getIndividual(GeneticAlgorithm.random.nextInt(popSize));
+            if (aux.compareTo(best) > 0) { //if aux is BETTER than best
+                best = aux;
+            }
+        }
+        return (I) best.clone();
     }
 
     @Override

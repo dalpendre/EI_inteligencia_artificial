@@ -6,15 +6,15 @@ Max_generations: 100
 
 //--------------------------------
 
-Selection: roulette_wheel, tournament
+Selection: tournament
 
-Tournament_size: 2, 4, 6, 8
+Tournament_size: 4
 
 //--------------------------------
 
-Recombination: one_cut, two_cuts, uniform
+Recombination: uniform
 
-Recombination_probability: 0.6, 0.7, 0.8
+Recombination_probability: 0.7
 
 //--------------------------------
 

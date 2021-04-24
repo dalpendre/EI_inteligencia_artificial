@@ -11,8 +11,15 @@ public class RecombinationUniform <I extends Individual, P extends Problem<I>> e
     }
 
     @Override
-    public void recombine(I ind1, I ind2) {
-        //TODO
+    public void recombine(I ind1, I ind2)
+    {
+        for (int i = 0; i < ind1.getNumGenes(); i++)
+        {
+            if(GeneticAlgorithm.random.nextDouble() <= probability)
+            {
+                ind1.swapGenes(ind2, i);
+            }
+        }
     }
 
     @Override

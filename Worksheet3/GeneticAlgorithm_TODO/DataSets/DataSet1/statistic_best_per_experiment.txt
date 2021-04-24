@@ -1,0 +1,2481 @@
+
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1134.0
+fitness: 1134.0
+Items: 
+21	6.0	383.0
+29	5.0	382.0
+30	4.0	369.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 14.0 (limit: 15.0)
+Value: 1137.0
+fitness: 1137.0
+Items: 
+28	5.0	386.0
+29	5.0	382.0
+30	4.0	369.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 14.0 (limit: 15.0)
+Value: 1137.0
+fitness: 1137.0
+Items: 
+28	5.0	386.0
+29	5.0	382.0
+30	4.0	369.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 14.0 (limit: 15.0)
+Value: 1137.0
+fitness: 1137.0
+Items: 
+28	5.0	386.0
+29	5.0	382.0
+30	4.0	369.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1138.0
+fitness: 1138.0
+Items: 
+21	6.0	383.0
+28	5.0	386.0
+30	4.0	369.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1138.0
+fitness: 1138.0
+Items: 
+21	6.0	383.0
+28	5.0	386.0
+30	4.0	369.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(2)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(6)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(8)
+Recombination:uniform recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:One cut recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:Two cuts recombination (0.8)
+Recombination prob.: 0.8
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.6)
+Recombination prob.: 0.6
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Roulette wheel
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:50
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:100
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0
+
+Population size:200
+Max generations:100
+Selection:Tournament(4)
+Recombination:uniform recombination (0.7)
+Recombination prob.: 0.7
+Mutation:Binary mutation (0.025)
+Mutation prob.: 0.025
+
+Weight: 15.0 (limit: 15.0)
+Value: 1149.0
+fitness: 1149.0
+Items: 
+19	5.0	381.0
+28	5.0	386.0
+29	5.0	382.0

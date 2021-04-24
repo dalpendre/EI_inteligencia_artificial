@@ -23,8 +23,7 @@ public class KnapsackIndividual extends BitVectorIndividual <Knapsack, KnapsackI
     }
 
     @Override
-    public double computeFitness()
-    {
+    public double computeFitness() {
         value = weight = 0;
         for (int i = 0; i < genome.length; i++) {
             if (genome[i]) {
@@ -37,8 +36,7 @@ public class KnapsackIndividual extends BitVectorIndividual <Knapsack, KnapsackI
             case Knapsack.SIMPLE_FITNESS:
                 fitness = (weight > problem.getMaximumWeight()) ? 0 : value;
                 break;
-            case Knapsack.PENALTY_FITNESS:
-                //cannot be used with roulette wheel because fitness value may become negative
+            case Knapsack.PENALTY_FITNESS: //cannot be used with roulette wheel because fitness value may become negative
                 double penalty = 0;
                 if (weight > problem.getMaximumWeight()) {
                     penalty = problem.getMaxVP() * (weight - problem.getMaximumWeight());

@@ -1,0 +1,156 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:
+50	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1134
+50	100	Tournament(2)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1137
+50	100	Tournament(2)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(2)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1137
+50	100	Tournament(4)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(6)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(8)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Roulette wheel	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1137
+100	100	Tournament(2)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1138
+100	100	Tournament(2)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1138
+100	100	Tournament(2)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(2)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(4)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(6)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+100	100	Tournament(8)	uniform recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	uniform recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1149
+200	100	Roulette wheel	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149
+50	100	Tournament(4)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149.0
+100	100	Tournament(4)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149.0
+200	100	Tournament(4)	uniform recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1149.0

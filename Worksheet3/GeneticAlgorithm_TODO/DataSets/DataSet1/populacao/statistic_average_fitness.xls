@@ -1,0 +1,19 @@
+200	100	Tournament(4)	uniform recombination (0.9)	0.9	Binary mutation (0.025)	0.025		1148.56	2.1555509736491967
+200	100	Tournament(4)	Two cuts recombination (0.1)	0.1	Binary mutation (0.025)	0.025		1146.34	4.735440845370155
+200	100	Tournament(4)	Two cuts recombination (0.2)	0.2	Binary mutation (0.025)	0.025		1147.68	3.5745768980398225
+200	100	Tournament(4)	Two cuts recombination (0.3)	0.3	Binary mutation (0.025)	0.025		1148.12	2.9842251925751175
+200	100	Tournament(4)	Two cuts recombination (0.4)	0.4	Binary mutation (0.025)	0.025		1146.58	4.556709338985755
+200	100	Tournament(4)	Two cuts recombination (0.5)	0.5	Binary mutation (0.025)	0.025		1148.56	2.155550973649197
+200	100	Tournament(4)	Two cuts recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1146.8	4.399999999999996
+200	100	Tournament(4)	Two cuts recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1147.68	3.5745768980398234
+200	100	Tournament(4)	Two cuts recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1148.34	2.6123552591483428
+200	100	Tournament(4)	Two cuts recombination (0.9)	0.9	Binary mutation (0.025)	0.025		1147.68	3.574576898039822
+200	100	Tournament(4)	One cut recombination (0.1)	0.1	Binary mutation (0.025)	0.025		1145.92	4.938987750541602
+200	100	Tournament(4)	One cut recombination (0.2)	0.2	Binary mutation (0.025)	0.025		1146.58	4.556709338985755
+200	100	Tournament(4)	One cut recombination (0.3)	0.3	Binary mutation (0.025)	0.025		1147.46	3.8168573460374464
+200	100	Tournament(4)	One cut recombination (0.4)	0.4	Binary mutation (0.025)	0.025		1147.02	4.226061996705681
+200	100	Tournament(4)	One cut recombination (0.5)	0.5	Binary mutation (0.025)	0.025		1147.24	4.032666611561137
+200	100	Tournament(4)	One cut recombination (0.6)	0.6	Binary mutation (0.025)	0.025		1146.58	4.556709338985755
+200	100	Tournament(4)	One cut recombination (0.7)	0.7	Binary mutation (0.025)	0.025		1147.46	3.8168573460374455
+200	100	Tournament(4)	One cut recombination (0.8)	0.8	Binary mutation (0.025)	0.025		1147.02	4.226061996705681
+200	100	Tournament(4)	One cut recombination (0.9)	0.9	Binary mutation (0.025)	0.025		1148.56	2.155550973649198
