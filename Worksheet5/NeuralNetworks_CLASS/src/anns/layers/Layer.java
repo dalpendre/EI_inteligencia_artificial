@@ -40,8 +40,19 @@ public abstract class Layer{
      * @param input layer's input.
      * @return the layer's output vector.
      */
-    public double[] computeOutput(double[] input){
-        //TODO
+    public double[] computeOutput(double[] input)
+    {
+        double weightedSum = 0;
+        for (int j = 0; j < size; j++)
+        {
+            weightedSum = b[j];
+            for(int i = 0; i < inputSize; i++)
+            {
+                weightedSum += input[j] * w[i][j];
+            }
+            output[j] = activationFunction(weightedSum);
+        }
+
         return output;
     }
 
@@ -70,8 +81,18 @@ public abstract class Layer{
      * @param input layer's input.
      * @param learningRate learning rate.
      */
-    public void updateWeights(double[] input, double learningRate){
-        //TODO
+    public void updateWeights(double[] input, double learningRate)
+    {
+        double weightedSum = 0;
+        for (int j = 0; j < size; j++)
+        {
+            weightedSum = learningRate*errors[j];
+            for(int i = 0; i < inputSize; i++)
+            {
+                w[i][j] += learningRate*errors[j]*input[i];
+            }
+            output[j] = activationFunction(weightedSum);
+        }
     }
 
     public int getSize() {

@@ -39,9 +39,16 @@ public class MLPNetwork {
      * @param instance instance for which the output of the network should be computed.
      * @return the output vector computed by the network.
      */
-    public double[] computeOutput(double[] instance) {
-        //TODO
-        return null;
+    public double[] computeOutput(double[] instance)
+    {
+        double[] aux = instance;
+
+        for (Layer layer : layers)
+        {
+            aux = layer.computeOutput(aux);
+        }
+
+        return aux;
     }
 
     /**
@@ -50,8 +57,17 @@ public class MLPNetwork {
      * @param epochs       number of training epochs.
      * @param learningRate learning rate.
      */
-    public void train(LinkedList<Example> trainingSet, int epochs, double learningRate) {
-        //TODO
+    public void train(LinkedList<Example> trainingSet, int epochs, double learningRate)
+    {
+        for(int i = 0; i < epochs; i++)
+        {
+            for (Example example : trainingSet)
+            {
+                computeOutput(example.getInstance());
+                backPropagation(example, learningRate);
+            }
+            System.out.println("Loss MSE: " + meanSquareError(trainingSet));
+        }
     }
 
     /**
@@ -100,10 +116,22 @@ public class MLPNetwork {
      * @param learningRate learning rate.
      */
     private void backPropagation(Example example, double learningRate) {
-        //Computing errors
-        //TODO
-        //Updating weights
-        //TODO
+        Layer outputLayer = layers.get(layers.size() - 1);
+        outputLayer.computeOutputLayerErrors(example.getTarget());
+        Layer nextLayer = outputLayer;
+        for (int i = layers.size()-2; i >= 0; i--)
+        {
+            Layer layer = layers.get(i);
+            layer.computeHiddenLayerErrors(nextLayer);
+            nextLayer = layer;
+        }
+
+        double[] input = example.getInstance();
+        for (Layer layer : layers)
+        {
+            layer.updateWeights(input, learningRate);
+            input = layer.getOutput();
+        }
     }
 
     /**
